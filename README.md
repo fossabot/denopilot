@@ -1,6 +1,7 @@
 # denopilot
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fakoua_denopilot&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fakoua_denopilot)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffakoua%2Fdenopilot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffakoua%2Fdenopilot?ref=badge_shield)
 
 ## Description
 
@@ -410,3 +411,6 @@ This `mod` Allows you access and control various system actions.
 ## License:
 
 This project is licensed under the MIT License
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffakoua%2Fdenopilot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffakoua%2Fdenopilot?ref=badge_large)
